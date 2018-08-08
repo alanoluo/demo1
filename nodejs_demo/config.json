@@ -1,0 +1,39 @@
+{
+    "serverless-cloud-function-application": {
+        "application": {
+            "name": "hello",
+            "description": "thisusedtosendhttprequesttocmqforlaterhandle",
+            "readme": {
+                "file": "/readme.md",
+                "content": "thisisthisapplicationreadmeinfo"
+            },
+            "license": {
+                "file": "/license.txt",
+                "content": "thisisthisapplicationlicenseinfo"
+            },
+            "author": {
+                "name": "tencentcloudserverlessteam"
+            },
+            "tags": [
+                "nodejs",
+                "http",
+                "apigateway",
+                "cmq"
+            ],
+            "version": "1.0.1"
+        },
+        "functions": {
+            "name": "test-function",
+            "description": "firsttestfunction",
+            "handler": "index.handler",
+            "memorySize": 128,
+            "timeout": 3,
+            "runtime": "nodejs",
+            "codeObject": {
+                "codeFile": [
+                    "hello.js"
+                ]
+            }
+        }
+    }
+}

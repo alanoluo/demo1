@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c55ca64-5cbd-430e-b012-ff2b5eb51ae5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/python_demo/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/python_demo/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_demo/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_demo/hello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +23,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cpp" value="1" />
-          <entry key="json" value="1" />
+          <entry key="js" value="1" />
+          <entry key="json" value="2" />
           <entry key="md" value="1" />
           <entry key="yaml" value="3" />
         </counts>
@@ -29,21 +32,22 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="1" />
-          <entry key="JSON" value="1" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="json" value="2" />
+          <entry key="json" value="16" />
           <entry key="txt" value="8" />
           <entry key="yaml" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="2" />
+          <entry key="JSON" value="16" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="YAML" value="17" />
         </counts>
@@ -85,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_demo/config.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
               <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nodejs_demo/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -106,6 +119,8 @@
         <option value="$PROJECT_DIR$/cpp_demo/config.yaml" />
         <option value="$PROJECT_DIR$/python_demo/config.yaml" />
         <option value="$PROJECT_DIR$/python_demo/config.json" />
+        <option value="$PROJECT_DIR$/nodejs_demo/hello.js" />
+        <option value="$PROJECT_DIR$/nodejs_demo/config.json" />
       </list>
     </option>
   </component>
@@ -135,6 +150,11 @@
             <path>
               <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="nodejs_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
               <item name="python_demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -153,6 +173,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alanoluo\Documents\hello_world\demo1\nodejs_demo" />
       <recent name="C:\Users\alanoluo\Documents\hello_world\demo1\timer_demo" />
     </key>
   </component>
@@ -256,6 +277,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs_demo/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs_demo/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
