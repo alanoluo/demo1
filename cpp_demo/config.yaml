@@ -1,5 +1,5 @@
-serverless-cloud-function-application：
-  application：
+serverless-cloud-function-application:
+  application:
     name: 'endpoint-to-kafka'
     description: 'this used to send http request to cmq for later handle'
     readme:
@@ -15,13 +15,14 @@ serverless-cloud-function-application：
       - 'http'
       - 'api gateway'
       - 'kafka'
+    version: "1.0.0"
   functions:
-    - name:'test-function'
-      description: 'first test function'
-      handler:'index.handler'
-      memorySize: 128
-      timeout: 3
-      runtime: 'cpp'
-      codeObject:
-        codeFile:
-          - 'hello.cpp'
+    name: 'test-function'
+    description: 'first test function'
+    handler: 'index.handler'
+    memorySize: 128
+    timeout: 3
+    runtime: "cpp"
+    codeObject:
+      codeFile:
+        - 'hello.cpp'

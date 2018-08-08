@@ -1,6 +1,6 @@
-serverless-cloud-function-application：
-  application：
-    name: 'endpoint-to-cmq'
+serverless-cloud-function-application:
+  application:
+    name: 'timer'
     description: 'this used to send http request to cmq for later handle'
     readme:
       file: '/readme.md'
@@ -11,17 +11,18 @@ serverless-cloud-function-application：
     author:
       name: 'tencent cloud serverless team'
     tags:
-      - 'python2.7'
+      - 'cpp'
       - 'http'
       - 'api gateway'
-      - 'cmq'
+      - 'timer'
+    version: "1.0.0"
   functions:
-    - name:'test-function'
-      description: 'first test function'
-      handler:'index.handler'
-      memorySize: 128
-      timeout: 3
-      runtime: 'python2.7'
-      codeObject:
-        codeFile:
-          - 'hello.py'
+    name: 'test-function'
+    description: 'first test function'
+    handler: 'index.handler'
+    memorySize: 128
+    timeout: 3
+    runtime: "cpp"
+    codeObject:
+      codeFile:
+        - 'hello.cpp'
