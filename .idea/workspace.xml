@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c55ca64-5cbd-430e-b012-ff2b5eb51ae5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nodejs_demo/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/nodejs_demo/config.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,14 +41,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="json" value="19" />
+          <entry key="json" value="20" />
           <entry key="txt" value="8" />
           <entry key="yaml" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="19" />
+          <entry key="JSON" value="20" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="YAML" value="17" />
         </counts>
