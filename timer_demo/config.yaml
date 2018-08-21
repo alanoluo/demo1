@@ -11,10 +11,10 @@ serverless-cloud-function-application:
     author:
       name: 'tencent cloud serverless team'
     tags:
-      - 'cpp'
-      - 'http'
-      - 'api gateway'
-      - 'timer'
+      - cpp
+      - http
+      - api gateway
+      - timer
     version: "1.0.0"
   functions:
     name: 'test-function'

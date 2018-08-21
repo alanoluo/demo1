@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c55ca64-5cbd-430e-b012-ff2b5eb51ae5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/nodejs_demo/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/nodejs_demo/config.json" afterDir="false" />
-    </list>
+    <list default="true" id="2c55ca64-5cbd-430e-b012-ff2b5eb51ae5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="1568268249">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="2" />
@@ -124,9 +122,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="706" />
-    <option name="y" value="95" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="765" />
+    <option name="y" value="191" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -170,7 +168,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pydes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">

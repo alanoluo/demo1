@@ -11,10 +11,10 @@ serverless-cloud-function-application:
     author:
       name: 'tencent cloud serverless team'
     tags:
-      - 'cpp'
-      - 'http'
-      - 'api gateway'
-      - 'kafka'
+      - cpp
+      - http
+      - api gateway
+      - kafka
     version: "1.0.0"
   functions:
     name: 'test-function'
