@@ -1,3 +1,3 @@
 
-if __name__ == '__main__':
+def handler():
 	print "hello world"

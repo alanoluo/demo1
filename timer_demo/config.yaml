@@ -19,7 +19,7 @@ serverless-cloud-function-application:
   functions:
     name: 'test-function'
     description: 'first test function'
-    handler: 'index.handler'
+    handler: 'hello.handler'
     memorySize: 128
     timeout: 3
     runtime: "cpp"
