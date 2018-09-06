@@ -22,7 +22,7 @@
         "functions": {
             "name": "test-function",
             "description": "first test function",
-            "handler": "main",
+            "handler": "example.Hello::mainHandler",
             "memorySize": 128,
             "timeout": 3,
             "runtime": "java",
