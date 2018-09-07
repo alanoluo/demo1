@@ -17,7 +17,7 @@
             "tags": [
                 "java"
             ],
-            "version": "1.0.0"
+            "version": "1.0.2"
         },
         "functions": {
             "name": "test-function",
@@ -25,7 +25,7 @@
             "handler": "example.Hello::mainHandler",
             "memorySize": 128,
             "timeout": 3,
-            "runtime": "java",
+            "runtime": "Java8",
             "codeObject": {
                 "codeFile": [
                     "java-demo-1.0.0"
