@@ -1,7 +1,7 @@
 {
     "serverless-cloud-function-application": {
         "application": {
-            "name": "golang",
+            "name": "golang-helloworld",
             "description": "this is a golang demo",
             "readme": {
                 "file": "/readme.md",
