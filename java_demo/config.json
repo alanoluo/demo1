@@ -1,7 +1,7 @@
 {
     "serverless-cloud-function-application": {
         "application": {
-            "name": "java-helloworld",
+            "name": "Java8-helloworld",
             "description": "this is a java demo",
             "readme": {
                 "file": "/readme.md",
