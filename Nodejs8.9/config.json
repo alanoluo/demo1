@@ -20,13 +20,12 @@
     "functions": {
       "name": "hello world function",
       "description": "Nodejs8.9 hello world function",
-      "handler": "nodejs-index.main_handler",
+      "handler": "helloworld.main_handler",
       "memorySize": 128,
       "timeout": 3,
       "runtime": "Nodejs8.9",
-      "indexFile": "index.js",
       "codeObject": {
-        "codeFile": ["index.js"]
+        "codeFile": ["helloworld.js"]
       }
     }
   }
