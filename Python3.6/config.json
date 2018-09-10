@@ -20,12 +20,12 @@
     "functions": {
       "name": "hello world function",
       "description": "Python3.6 hello world function",
-      "handler": "helloworld.main_handler",
+      "handler": "index.main_handler",
       "memorySize": 128,
       "timeout": 3,
       "runtime": "Python3.6",
       "codeObject": {
-        "codeFile": ["helloworld.py"]
+        "codeFile": ["index.py"]
       }
     }
   }

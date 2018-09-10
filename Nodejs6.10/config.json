@@ -22,13 +22,13 @@
         "functions": {
             "name": "hello world function",
             "description": "Nodejs6.10 hello world function",
-            "handler": "helloworld.main_handler",
+            "handler": "index.main_handler",
             "memorySize": 128,
             "timeout": 3,
             "runtime": "Nodejs6.10",
             "codeObject": {
                 "codeFile": [
-                    "helloworld.js"
+                    "index.js"
                 ]
             }
         }

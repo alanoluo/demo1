@@ -20,12 +20,12 @@
     "functions": {
       "name": "hello world function",
       "description": "Php7.2 hello world function",
-      "handler": "helloworld.main_handler",
+      "handler": "index.main_handler",
       "memorySize": 128,
       "timeout": 3,
       "runtime": "Php7",
       "codeObject": {
-        "codeFile": ["helloworld.php"]
+        "codeFile": ["index.php"]
       }
     }
   }
