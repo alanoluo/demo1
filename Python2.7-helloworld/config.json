@@ -1,7 +1,7 @@
 {
   "serverless-cloud-function-application": {
     "application": {
-      "name": "Python2.7-helloworld",
+      "name": "测试helloworld",
       "description": "这是一个 Python2.7 hello world",
       "readme": {
         "file": "/readme.md",
@@ -14,7 +14,7 @@
       "author": {
         "name": "Tencent Cloud Serverless Team"
       },
-      "tags": ["python"],
+      "tags": ["python","中文测试"],
       "version": "2.0.0"
     },
     "functions": {
