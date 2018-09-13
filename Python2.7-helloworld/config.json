@@ -2,7 +2,7 @@
   "serverless-cloud-function-application": {
     "application": {
       "name": "Python2.7-helloworld",
-      "description": "This is a Python2.7 hello world",
+      "description": "这是一个 Python2.7 hello world",
       "readme": {
         "file": "/readme.md",
         "content": "This is this application readme info"
