@@ -15,7 +15,7 @@
         "name": "Tencent Cloud Serverless Team"
       },
       "tags": ["python"],
-      "version": "2.1.1"
+      "version": "2.21.1"
     },
     "functions": {
       "name": "hello world function",
